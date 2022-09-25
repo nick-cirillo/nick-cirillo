@@ -1,4 +1,8 @@
-### Hi there 👋
+## Nick Cirillo
+
+I'm a freshman at the University of Pennsylvania studying computer science. I'm interested in machine learning and software dev, and I'm currently a member of Penn Spark on the Blue Development team - you can learn more about Spark [here](https://pennspark.org/). 
+
+You can reach me at [ncirillo@seas.upenn.edu](mailto:ncirillo@seas.upenn.edu)!
 
 <!--
 **nick-cirillo/nick-cirillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
