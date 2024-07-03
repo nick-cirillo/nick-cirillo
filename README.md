@@ -1,8 +1,10 @@
 ## Nick Cirillo
 
-I'm a student at the University of Pennsylvania studying computer science. I'm currently a member of Penn Spark on the Red Development team, as well as VP Blue, in which I co-direct our bootcamp - you can learn more about Spark [here](https://pennspark.org/). 
+- I'm a rising junior in the University of Pennsylvania class of 2026, studying computer science with a minor in design
+- I'm currently a Product Management Intern at [Ohai.ai](https://ohai.ai/)
+- I'm currently one of the co-presidents of Penn Spark. I've also been on the Red Development team, as well as VP Blue, in which I co-directed our bootcamp - you can learn more about Spark [here](https://pennspark.org/)
 
-You can reach me at [ncirillo@seas.upenn.edu](mailto:ncirillo@seas.upenn.edu)!
+Feel free to reach out at [ncirillo@seas.upenn.edu](mailto:ncirillo@seas.upenn.edu)!
 
 <!--
 **nick-cirillo/nick-cirillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
