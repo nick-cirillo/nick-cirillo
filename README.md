@@ -5,7 +5,7 @@ Check out [my fun website](https://nick-cirillo.github.io)!
 I am: 
 - a junior at the University of Pennsylvania studying computer science with a minor in design
 - a Product Management Intern at [Ohai.ai](https://ohai.ai/)
-- a co-president of Penn Spark. I've also been on the development team, and directed our bootcamp as VP Blue. You can learn more about Spark [here](https://pennspark.org/)
+- a co-president of [Penn Spark](https://pennspark.org/) - I've also been on the development team, and directed our bootcamp as VP Blue
 
 Feel free to reach out at [ncirillo@seas.upenn.edu](mailto:ncirillo@seas.upenn.edu)!
 
