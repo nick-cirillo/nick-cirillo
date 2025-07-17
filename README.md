@@ -1,12 +1,13 @@
 ## Nick Cirillo
 
-Check out [my fun website](https://nicholascirillo.com)!
+Check out [my very cool, fun, and completely unfinished website](https://nicholascirillo.com)!
 
 I am: 
-- a junior at the [University of Pennsylvania](https://www.upenn.edu/) studying Computer Science with a minor in Design
-- a Product Management Intern at [Ohai.ai](https://ohai.ai/)
-- formerly co-president of, and project lead at, [Penn Spark](https://pennspark.org/) - I've also been on the development team, and directed our bootcamp as VP Blue
-- formerly co-president of [Product Space at Penn](https://pennproduct.com/), after graduating the fellowship
+- a rising senior at the [University of Pennsylvania](https://www.upenn.edu/) studying Computer Science with a minor in Design
+- a Data Engineer Intern at [Con Edison](https://coned.com)
+- formerly a Product Intern at [Ohai.ai](https://ohai.ai/)
+- formerly co-president of (and project lead at) [Penn Spark](https://pennspark.org/) - I've also been a dev and directed our bootcamp as VP
+- formerly co-president of [Product Space at Penn](https://pennproduct.com/)
 
 Feel free to reach out at [ncirillo@seas.upenn.edu](mailto:ncirillo@seas.upenn.edu)!
 
