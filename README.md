@@ -2,7 +2,7 @@
 
 Hey, I'm Nick: 
 - a senior at the [University of Pennsylvania](https://www.upenn.edu/) studying Computer Science with a minor in Design
-- an incoming Forward Deployed Engineer at [Northslope Technologies](https://www.northslopetech.com/)
+- an incoming Forward Deployed Engineer at [Northslope Technologies](https://www.northslope.com/)
 - prev. a Data Engineer Intern at [Con Edison](https://coned.com)
 - prev. a Product Intern at [Ohai.ai](https://ohai.ai/)
 - prev. co-president of (and project lead at) [Penn Spark](https://pennspark.org/) - I've also been a dev and directed our bootcamp as VP
