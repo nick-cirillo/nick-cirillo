@@ -1,14 +1,16 @@
 ## Nick Cirillo
 
-Hey, I'm Nick: 
-- a senior at the [University of Pennsylvania](https://www.upenn.edu/) studying Computer Science with a minor in Design
-- an incoming Forward Deployed Engineer at [Northslope Technologies](https://www.northslope.com/)
-- prev. a Data Engineer Intern at [Con Edison](https://coned.com)
-- prev. a Product Intern at [Ohai.ai](https://ohai.ai/)
-- prev. co-president of (and project lead at) [Penn Spark](https://pennspark.org/) - I've also been a dev and directed our bootcamp as VP
-- prev. co-president of [Product Space at Penn](https://pennproduct.com/)
+Hey, I'm Nick! I'm a Member of Deployment Staff at OpenAI Deploy Co. 
 
-Check out [my very cool, fun, and completely unfinished website](https://nicholascirillo.com), and feel free to reach out at [ncirillo@seas.upenn.edu](mailto:ncirillo@seas.upenn.edu)!
+Previously, I was: 
+- a Forward Deployed Engineer at [Northslope Technologies](https://www.northslope.com/)
+- a student at the [University of Pennsylvania](https://www.upenn.edu/) studying Computer Science with a minor in Design
+- a Data Engineer Intern at [Con Edison](https://coned.com)
+- a Product Intern at [Ohai.ai](https://ohai.ai/)
+- president of [Penn Spark](https://pennspark.org/)
+- president of [Product Space at Penn](https://pennproduct.com/)
+
+Check out [my very cool, fun, and completely unfinished website](https://nicholascirillo.com)!
 
 <!--
 **nick-cirillo/nick-cirillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
